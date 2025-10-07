@@ -6,7 +6,7 @@ Este repositorio contiene el desarrollo del proceso ETL y la creación del Data 
 
 - **/base_datos** → Scripts SQL de staging (`stg_jardineria.sql`) y del DW (`dim_jardineria.sql`).
 - **/calidad_datos** → Pruebas de calidad, resultados y reportes.
-- **/diagramas** → Diagramas E-R y lógicos del modelo.
+- **/diagramas** → Diagramas star model
 - **/documentacion** → Informes y documentación técnica.
 
 ## 🧪 Pruebas de calidad
